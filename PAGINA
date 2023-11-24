@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tu Título Aquí</title>
+</head>
+<body>
+
+    <!-- Página principal -->
+    <section>
+        <h2>Página Principal</h2>
+        <p>a) Título: <span id="titulo">Tu Título</span></p>
+        <p>b) Palabras clave: <span id="palabrasClave">Palabra1, Palabra2, Palabra3</span></p>
+        <p>c) Resumen: <span id="resumen">Resumen de tu investigación.</span></p>
+        <p>d) Objetivos: <br>
+            General: <span id="objetivoGeneral">Objetivo General</span><br>
+            Específicos: <span id="objetivosEspecificos">Objetivo 1, Objetivo 2, Objetivo 3</span>
+        </p>
+        <p>e) Justificación de la investigación: <span id="justificacion">Justificación de tu investigación.</span></p>
+    </section>
+
+    <!-- Desarrollo -->
+    <section>
+        <h2>Desarrollo</h2>
+        <p>a) Planteamiento del problema: <span id="problema">Descripción del problema.</span></p>
+        <p>b) Marco teórico / Antecedentes / Trabajos relacionados / Análisis / Infografía / Gráficas / Etc.: <span id="marcoTeorico">Contenido del marco teórico.</span></p>
+        <p>c) Conclusiones de la investigación: <span id="conclusiones">Conclusiones de tu investigación.</span></p>
+    </section>
+
+    <!-- Bibliografía principal -->
+    <section>
+        <h2>Bibliografía Principal</h2>
+        <p>Coloca aquí la lista de tus referencias bibliográficas.</p>
+    </section>
+
+    <!-- Información adicional -->
+    <section>
+        <h2>Información Adicional</h2>
+        <p>Coloca aquí información adicional que será tomada en cuenta en la calificación.</p>
+    </section>
+
+    <!-- Términos y condiciones de uso -->
+    <section>
+        <h2>Términos y Condiciones de Uso</h2>
+        <p>Coloca aquí los términos y condiciones de uso de tu página.</p>
+    </section>
+
+</body>
+</html>
